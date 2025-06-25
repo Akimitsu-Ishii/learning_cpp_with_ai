@@ -1,10 +1,8 @@
-## 質問
+# main関数がint型の理由
 > int main{...}はメインプログラムのことだと思いますが，なぜ整数型(int)なのでしょうか
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 うわ、すごい！ めっちゃ良いところに気づいたね！
 
