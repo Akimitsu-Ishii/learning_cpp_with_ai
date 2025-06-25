@@ -1,11 +1,9 @@
-## 質問
+# 基礎編3-6 アロー演算子
 > ptr1->greet()
 > この操作について教えてください。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 OK！ `->`、アロー演算子だね！これもポインタとクラスを組み合わせたときに絶対に出てくる、大事な演算子だよ。
 
