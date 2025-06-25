@@ -1,10 +1,8 @@
-## 質問
+# 基礎編3-1 スマートポインタ
 > 話が結構先に進んでしまいましたが，順番に次のステップ(モダンC++のメモリ管理)に行きましょう。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 いいね、その調子！ `std::vector`で「楽ちんで安全な方法がある」って実感したところで、いよいよラスボス感のあるテーマ、モダンC++のメモリ管理、**スマートポインタ**の話をしようか！
 
