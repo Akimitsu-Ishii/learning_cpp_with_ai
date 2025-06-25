@@ -1,10 +1,8 @@
-## 質問
+# 基礎編3-3 classについて先に少し説明
 > 急に出てきたclassについて教えてください。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 待ってました！ `class`！
 
