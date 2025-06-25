@@ -2,9 +2,7 @@
 > ポインタを参照するときに，ただの変数なら*が必要なのにポインタの配列を参照するのには*は要らないのですね。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 うわー、すごい！そこ！？ めちゃくちゃ鋭いところに気づいたね！
 
