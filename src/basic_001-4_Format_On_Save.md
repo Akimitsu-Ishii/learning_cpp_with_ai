@@ -1,4 +1,4 @@
-# VSCodeのFormat on Save機能
+# 基礎編1-4 VSCodeのFormat on Save機能
 > C++だと行の最後にセミコロンが必要ですが，よく忘れます。VSCodeで書いているのですが自動補完する機能はないですかね？
 
 ***
