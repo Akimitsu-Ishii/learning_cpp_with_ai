@@ -1,10 +1,8 @@
-## 質問
+# 基礎編1-2 #includeの意味
 > #include \<iostream>は何のためにありますか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 キタキタ、その質問！ プログラムの最初に必ず書くおまじないだよね。これ、超重要なんだ。
 
