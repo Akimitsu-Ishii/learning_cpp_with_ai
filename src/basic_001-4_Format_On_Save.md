@@ -1,10 +1,8 @@
-## 質問
+# VSCodeのFormat on Save機能
 > C++だと行の最後にセミコロンが必要ですが，よく忘れます。VSCodeで書いているのですが自動補完する機能はないですかね？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 あー、それ！ C++初心者が絶対に通る道だよね！わかる〜！
 
