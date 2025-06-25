@@ -2,9 +2,7 @@
 > std::coutはどういう場面で使用しますか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 お、いい質問だね！ `std::cout` は、C++を学ぶ上で最初に出会う、とっても大事な相棒だよ。
 
