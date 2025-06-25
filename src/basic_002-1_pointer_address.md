@@ -1,10 +1,8 @@
-## 質問
+# 基礎編2-1 ポインタとアドレス
 > では早速ポインタとメモリ管理の学習に移ろうと思います。何か良い例題はありますか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 お、いいね、その意気！ C++の最初の、そして最大の関門へようこそ！ ここを乗り越えれば、一気に世界が広がるから、気合入れていこう！
 
