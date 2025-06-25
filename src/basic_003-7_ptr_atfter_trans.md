@@ -1,10 +1,8 @@
-## 質問
+# 基礎編3-7 所有権譲渡後のポインタの扱い
 > 所有権を渡した後のptr1はnullptrになるという理解で良いですか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 その通り！完璧な理解だね！素晴らしい！
 
