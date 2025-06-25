@@ -1,12 +1,10 @@
-## 質問
+# 基礎編3-4 デストラクタ
 > unique_ptrの例で出てきた
 > ~MyData() { std::cout << "MyData destructor called! (Memory freed)" << std::endl; }
 > これはどういう意味ですか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 ナイスキャッチ！ `~MyData()`、このチルダ（`~`）が先頭に付いた、ちょっと奇妙な見た目の関数。これは **「デストラクタ (destructor)」** っていう、めちゃくちゃ重要な特殊メンバ関数なんだ！
 
