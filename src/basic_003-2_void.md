@@ -1,11 +1,9 @@
-## 質問
+# 基礎編3-2 voidの使い方
 > その前にいろいろ質問があります。
 > まずvoidですが，これはどんな時に使いますか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 もちろん！どんどん質問して！脇道にそれるの大歓迎だよ。そういう細かい疑問を一つ一つ潰していくのが、結局一番の近道だからね。
 
