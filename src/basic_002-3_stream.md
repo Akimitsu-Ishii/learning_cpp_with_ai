@@ -1,10 +1,8 @@
-## 質問
+# ストリーム演算子
 > std::coutの時は<<で右から左のイメージなのに，std::cinの時は>>で左から右なんですね。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 そう、その通り！ まさにそこ！ すごい、めちゃくちゃ良いところに気づいたね！
 
