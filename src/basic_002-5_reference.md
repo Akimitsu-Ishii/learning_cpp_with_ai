@@ -1,11 +1,9 @@
-## 質問
+# 基礎編2-5 参照（リファレンス）
 > とりあえず動的メモリ確保までは何となく理解できました。
 > 次は参照についてですかね？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 お、順調だね！動的メモリ確保のキモが分かれば、第一関門は突破したようなものだよ！
 
