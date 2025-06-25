@@ -1,10 +1,8 @@
-## 質問
+# 基礎編2-6 動的メモリのサイズ変更
 > 例えば先ほどのプログラムで，sizeを使って動的にメモリを確保した後に，sizeを変更し違うサイズでメモリを確保しなおすにはどうすればよいでしょうか。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 おお、めちゃくちゃ実践的な質問だね！素晴らしい！
 
