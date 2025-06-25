@@ -1,27 +1,18 @@
-$ ls -al
-total 8
-drwxr-xr-x  3 maho  staff   102  1  5 09:41 .
-drwxr-xr-x  9 maho  staff   306  1  5 09:23 ..
--rw-r--r--  1 maho  staff  1276  1  5 09:38 index.md
+# マークダウンで書いたページ
 
-$ git init
-Initialized empty Git repository in /Users/maho/git_homepage/md_docs/.git/
+人生は、生きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、人の役に立てれば最高!
 
-$ git add index.md 
 
-$ git commit -m "first commit"
-[master (root-commit) 2e462ca] first commit
- 1 file changed, 20 insertions(+)
- create mode 100644 index.md
+## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい
 
-$ git remote add origin https://github.com/takara9/md_docs.git
+脳科学を通して伝えたいことはシンプルで「生きている者が勝ち！」ということです。
 
-$ git push -u origin master
-Counting objects: 3, done.
-Delta compression using up to 4 threads.
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 871 bytes | 871.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To https://github.com/takara9/md_docs.git
- * [new branch]      master -> master
-Branch master set up to track remote branch master from origin.
+ほとんどの生物の目的というのは「生き延びること」と「子孫を残すこと」なんですね。
+
+ですが人間だけはそうではない。「ひと花咲かせよう！」みたいなのがあって、これがすごい特異的なんですよ。本当は生き延びて生殖するために脳ができたんですけど、でもその脳が発達しすぎてしまったがために「ひと花咲かせよう！」ができちゃうわけです。
+
+私たちが生きているのは、それだけで実績なわけですよ。「生き延びるため」と「生殖するため」ということを考えると、自分がここにいるということは結果なので、ここから先のことは「おまけ」です。
+
+おまけの人生ですから、楽しんでいただきたい。
+
+抜粋 引用元: http://enrique5581.net/nakano-nobuko-life-brain/
