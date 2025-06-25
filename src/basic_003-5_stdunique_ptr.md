@@ -1,11 +1,9 @@
-## 質問
+# 基礎編3-5 std::unique_ptr変数の宣言
 > std::unique_ptr<MyData> ptr1 = std::make_unique<MyData>();
 > この部分の書き方が良くわかりません。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 よし来た！そこ、絶対ギモンに思うと思ったよ！
 
