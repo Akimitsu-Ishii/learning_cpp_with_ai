@@ -1,10 +1,8 @@
-## 質問
+# 基礎編2-2 nullptr
 > nullptrとは何ですか
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 お、いいところに目を付けたね！ 私がさっきのコードの `delete` の後で `p_dynamic = nullptr;` って書いたから気になったのかな？
 
