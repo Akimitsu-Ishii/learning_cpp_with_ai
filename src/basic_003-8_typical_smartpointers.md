@@ -1,10 +1,9 @@
-## 質問
+# 基礎編3-8 代表的なスマートポインタ
 > 他によく使うスマートポインタにはどのようなものがあるでしょうか。
 
 ***
-<h2><img src="image/KANAMI.png">
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
-<font color="Maroon">KANAMI</font></h2>
 いい質問だね！ `unique_ptr`が「孤高のソロプレイヤー」だとしたら、次に出てくるのは強力な「チームプレイヤー」たちだよ。
 
 よく使うスマートポインタは、`unique_ptr`を含めて全部で3種類。この3つを覚えれば、メモリ管理はほぼマスターしたと言っていい！
