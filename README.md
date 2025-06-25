@@ -17,8 +17,6 @@
 #### [基礎編2-5 参照（リファレンス）](/learning_cpp_with_ai/src/basic_002-5_reference.html)
 #### [基礎編2-6 動的メモリのサイズ変更](/learning_cpp_with_ai/src/basic_002-6_vec_size_change.html)
 
-[基礎編3-1 ]
-
 ## 実践編
 準備中
 
