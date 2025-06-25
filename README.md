@@ -29,7 +29,7 @@
 - #### [基礎編3-4 デストラクタ](/learning_cpp_with_ai/src/basic_003-4_destructor.html)
 - #### [基礎編3-5 std::unique_ptr変数の宣言](/learning_cpp_with_ai/src/basic_003-5_stdunique_ptr.html)
 - #### [基礎編3-6 アロー演算子](/learning_cpp_with_ai/src/basic_003-6_arrow.html)
-- #### [基礎編3-7 所有権譲渡後のポインタの扱い](/learning_cpp_with_ai/src/basic_003-7_ptr_atfter_trans.html)
+- #### [基礎編3-7 所有権譲渡後のポインタ](/learning_cpp_with_ai/src/basic_003-7_ptr_atfter_trans.html)
 - #### [基礎編3-8 代表的なスマートポインタ](/learning_cpp_with_ai/src/basic_003-8_typical_smartpointers.html)
 
 ### 実践編
