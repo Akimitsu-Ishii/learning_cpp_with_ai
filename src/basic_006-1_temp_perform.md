@@ -1,10 +1,8 @@
-## 質問
+# 基礎編6-1 テンプレートとパフォーマンス
 > 次のテンプレートとパフォーマンスが実際にHPCを始める前の最後のステップですか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 その通り！いよいよHPCの世界に手をかける、最後の基礎力トレーニングって感じだね！
 
