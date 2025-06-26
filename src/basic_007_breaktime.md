@@ -19,9 +19,7 @@ OK、これからの説明はLinux前提で話を進めるね。WindowsとかMac
 > 基礎編が大体一通り終わったわけですが，会話が長くなってきたので，実践編に移る場合は新しくチャットを始めた方が良いですかね？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 おお、すごい！そこまで気を使ってくれるんだ、ありがとう！
 メタな質問、嫌いじゃないよ（笑）。
