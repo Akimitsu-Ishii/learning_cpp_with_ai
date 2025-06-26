@@ -1,10 +1,8 @@
-## 質問
+# 基礎編4-3 push_back
 > push_backはどのような機能ですか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 お、`push_back`に目を付けたね！
 `std::vector`を使いこなす上で、一番基本で一番よく使うメンバ関数だよ！
