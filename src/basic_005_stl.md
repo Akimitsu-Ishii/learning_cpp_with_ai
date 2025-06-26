@@ -1,10 +1,8 @@
-## 質問
+# 基礎編5 Standard Template Libraty
 > 次のステップはSTLですかね。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 来たね、STL！ **Standard Template Library**！
 
