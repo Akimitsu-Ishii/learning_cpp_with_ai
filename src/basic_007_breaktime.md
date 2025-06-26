@@ -1,11 +1,9 @@
-# ブレークタイム（雑談）
+# ブレークタイム（雑談①）
 ## 話題1
 > 作業環境はLinuxなので，WindowsやMac用の操作説明は不要です。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 ラジャー！ 教えてくれてありがとう！
 
