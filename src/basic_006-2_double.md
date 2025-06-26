@@ -1,10 +1,8 @@
-## 質問
+# 基礎編6-2 double型の判断
 > テンプレートでadd(3.14, 2.71)としたときに，float型ではなくdouble型と判断してくれますか？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 お、いい質問だね！テンプレートの型推論の、まさにキモになる部分だよ。
 
