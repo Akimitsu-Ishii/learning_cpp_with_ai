@@ -37,3 +37,6 @@
 
 ### 応用編
 未定
+
+### おまけ
+- #### [GitHub Pagesのコードブロックにコピーボタンを作る](/learning_cpp_with_ai/src/omake_github_pages_copy.html)
