@@ -6,5 +6,56 @@
     {{ content }}
 
     <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
+    
+    <script>
+      // ページの読み込みが終わったら実行する処理
+      document.addEventListener('DOMContentLoaded', () => {
+        // Jekyllが生成するコードブロックは<div class="highlight">...</div>で囲まれていることが多い
+        const highlightBlocks = document.querySelectorAll('div.highlight');
+
+        // 見つかったすべてのコードブロックに対して処理を行う
+        highlightBlocks.forEach((block, index) => {
+          // コピーボタンのHTML要素を新しく作る
+          const copyButton = document.createElement('button');
+          copyButton.className = 'copy-button'; // CSSでデザインするためのクラス名
+          copyButton.textContent = 'Copy';     // ボタンに表示するテキスト
+
+          // ボタンにユニークなIDを付ける（どのコードをコピーするか判別するため）
+          const codeId = `code-block-${index}`;
+          // コピー対象のコードブロック本体（<pre><code>...</code></pre>）を探す
+          const codeElement = block.querySelector('pre');
+          if (codeElement) {
+            codeElement.id = codeId; // コードブロックにもIDを付ける
+            copyButton.setAttribute('data-clipboard-target', `#${codeId}`); // ボタンにコピー対象のIDを教える
+          }
+
+          // 作成したボタンをコードブロックの直前に追加する
+          block.insertBefore(copyButton, block.firstChild);
+        });
+
+        // clipboard.jsを初期化する
+        const clipboard = new ClipboardJS('.copy-button');
+
+        // コピーが成功したときのイベント
+        clipboard.on('success', (e) => {
+          // ボタンのテキストを一時的に「Copied!」に変更する
+          e.trigger.textContent = 'Copied!';
+          // 2秒後にもとの「Copy」に戻す
+          setTimeout(() => {
+            e.trigger.textContent = 'Copy';
+          }, 2000);
+          // コピー後にボタンのフォーカスを外す
+          e.clearSelection();
+        });
+
+        // コピーが失敗したときのイベント
+        clipboard.on('error', (e) => {
+          e.trigger.textContent = 'Error!';
+           setTimeout(() => {
+            e.trigger.textContent = 'Copy';
+          }, 2000);
+        });
+      });
+    </script>
     </body>
 </html>
