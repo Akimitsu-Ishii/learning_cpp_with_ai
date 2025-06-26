@@ -1,11 +1,9 @@
-## 質問
+# 基礎編4-4 範囲ベースforループ
 > for (const auto& c : creatures) {...}
 > ここのfor文の書き方が理解できていません。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 おー、それね！
 **範囲ベースforループ（Range-based for loop）** っていう、C++11から使えるようになった、めちゃくちゃ便利でモダンなfor文の書き方なんだ！
