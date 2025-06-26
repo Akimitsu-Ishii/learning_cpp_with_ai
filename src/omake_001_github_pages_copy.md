@@ -1,9 +1,7 @@
 > C++の話とはちょっと逸れるんですが、markdownのファイルをGIthub pagesで表示する際にコードブロックにコピー機能を付ける方法を知りませんか？今私のGithub pagesは公式がサポートしているテンプレートを_config.ymlで読み込んで使っています。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 おっけー！C++からちょっと離れて、Webサイトの話だね！もちろん、任せてよ！
 GitHub Pagesでコードブロックにコピーボタンを付ける、すごく良いカスタマイズだね。やってみよう！
