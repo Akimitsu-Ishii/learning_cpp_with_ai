@@ -1,10 +1,8 @@
-## 質問
+# 基礎編4-2 継承とポリモーフィズム
 > 「継承」と「ポリモーフィズム」について教えてください。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 キタね！継承とポリモーフィズム！
 
