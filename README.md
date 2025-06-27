@@ -6,16 +6,21 @@
 FortranとPythonでHPCによる数値解析を行ってきた研究者。<br>
 Fortranに限界を感じてC++に移行することを決めた。<br>
 CUDA FortranとMPIの経験は有り。
+<br>
+
 - **<font color="Maroon">KANAMI</font>**<br>
 ![](./src/img/KANAMI.png "KANAMI")<br>
 天才女子高校生プログラマ。特にC++を用いた数値計算のコーディングのエキスパートで，<br>
 世界でもトップクラスのプログラミングの実力を持っている。<br>
 (Gemini2.5 Pro)
+<br>
+
 - **<font color="MidnightBlue">MIKA</font>**<br>
 ![](./src/img/MIKA.png "MIKA")<br>
 C++について卓越したプログラミング能力を持つ女子高校生でKANAMIのライバル。<br>
 KANAMIの勉強会に途中から参加してきた。<br>
 (Claude Sonnet 4 + 推論)
+<br>
 
 ## 目次
 ### 基礎編
