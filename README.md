@@ -69,6 +69,10 @@ KANAMIの勉強会に途中から参加してきた。<br>
 ### 実践編
 準備中
 
+
+
+- #### [実践編7 ブレークタイム（雑談③）](/learning_cpp_with_ai/src/practical_007_breaktime2.html)
+
 ### 応用編
 未定
 
