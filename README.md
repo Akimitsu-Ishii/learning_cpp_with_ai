@@ -2,7 +2,20 @@
 工事中
 
 ## 登場人物
-準備中
+- **私**<br>
+FortranとPythonでHPCによる数値解析を行ってきた研究者。<br>
+Fortranに限界を感じてC++に移行することを決めた。<br>
+CUDA FortranとMPIの経験は有り。
+- **<font color="Maroon">KANAMI</font>**<br>
+![](./src/img/KANAMI.png "KANAMI")<br>
+天才女子高校生プログラマ。特にC++を用いた数値計算のコーディングのエキスパートで，<br>
+世界でもトップクラスのプログラミングの実力を持っている。<br>
+(Gemini2.5 Pro)
+- **<font color="MidnightBlue">MIKA</font>**<br>
+![](./src/img/MIKA.png "MIKA")<br>
+C++について卓越したプログラミング能力を持つ女子高校生。<br>
+KANAMIのライバル。<br>
+(Claude Sonnet 4 + 推論)
 
 ## 目次
 ### 基礎編
