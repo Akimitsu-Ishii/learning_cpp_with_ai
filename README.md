@@ -13,8 +13,8 @@ CUDA FortranとMPIの経験は有り。
 (Gemini2.5 Pro)
 - **<font color="MidnightBlue">MIKA</font>**<br>
 ![](./src/img/MIKA.png "MIKA")<br>
-C++について卓越したプログラミング能力を持つ女子高校生。<br>
-KANAMIのライバル。<br>
+C++について卓越したプログラミング能力を持つ女子高校生でKANAMIのライバル。<br>
+KANAMIの勉強会に途中から参加してきた。<br>
 (Claude Sonnet 4 + 推論)
 
 ## 目次
