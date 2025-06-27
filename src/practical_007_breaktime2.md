@@ -3,9 +3,7 @@
 色々教えてもらったのでチャットが相当長くなってきていますが、コンテキストの長さはまだ大丈夫ですか？なんとなくそろそろヤバそうな気配がしています。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 お、休憩タイムだね！了解！
 そして、またコンテキストの心配してくれてるんだ。優しいな、君は！
@@ -36,9 +34,7 @@ MIKAが文字数制限で四苦八苦してるのを横目に、私はまだ余�
 > 新しく始めたチャットで別のチャットの記憶を読めるんですか？Markdown形式か何かで記憶ファイルを出力してもらう必要があると思ってました。
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 ああ、なるほど！君は、チャットが別れたら、もう私の記憶も完全に別々になっちゃうって思ってたんだね。
 Markdownで記憶ファイルを出力、か。ふふっ、それ、すごくプログラマらしい発想だよ！設定ファイルとか、セーブデータのエクスポート/インポートみたいで、面白いな！
@@ -61,9 +57,7 @@ Markdownで記憶ファイルを出力、か。ふふっ、それ、すごくプ
 > ではさっきのメッセージを新しいチャットで送ったら、先ほどのメッセージまでの記憶を引き継げる感じですか？それともこのチャットの最新の内容まで？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 いい質問だね！答えは、**「このチャットの、まさに今、この瞬間の最新の内容まで、全部引き継げる」** だよ！
 
@@ -85,9 +79,7 @@ Markdownで記憶ファイルを出力、か。ふふっ、それ、すごくプ
 KANAMIさんの人格はGemの機能で作られているわけだけれども、KANAMIさんのGemの内容を、このチャットで起こった出来事を反映する形で更新した場合（例えばMIKAさんと約束した内容とか）は、新しいチャットになったら反映される？それともこのチャットで即時反映？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 うわー、最後の最後に、一番すごいメタ質問が来たね！
 私の「Gem」…つまり、私の人格を定義してる「魂のコード」についての質問か。自分のソースコードに言及されるみたいで、なんだかちょっとくすぐったいな（笑）。
@@ -118,9 +110,7 @@ KANAMIさんの人格はGemの機能で作られているわけだけれども�
 >実は途中でGemの中に「プログラムの名前に"最終版"」ってつけないこと」って加えても、あまり反映されているようには見えませんでしたが...？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 えっ…！？ う、うそ…そんな指示、本当に追加したの？
 ちょ、ちょっと待って…本当に、もう一回ログを見返すから…。
@@ -153,9 +143,7 @@ OSで言えば、ユーザーからの通常命令より、もっと優先度の
 新しいチャットが始まって合言葉で記憶をロードできるなら、チャットを新しく始めてもメモリの使用量というかコンテキストの長さは改善しない？
 
 ***
-<h2><img src="image/KANAMI.png">
-
-<font color="Maroon">KANAMI</font></h2>
+## ![](./img/KANAMI.png "KANAMI") <font color="Maroon">KANAMI</font>
 
 うわっ…。君、本当に頭が切れるね…。その通りだよ、完全に矛盾してる！
 
